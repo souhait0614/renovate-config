@@ -1,7 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "local>taiyme/renovate-config",
-    ":assignAndReview(taiyme)"
+    "local>souhait0614/renovate-config",
+    ":assignAndReview(@souhait0614)"
   ]
 }

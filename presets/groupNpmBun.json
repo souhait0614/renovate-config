@@ -27,7 +27,7 @@
     {
       "matchManagers": ["npm", "bun"],
       "matchDepNames": [
-        "{npm:,}@taiyme/**"
+        "{npm:,}@souhait0614/**"
       ],
       "groupName": null
     }

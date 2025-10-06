@@ -1,7 +1,7 @@
-# taiyme/renovate-config
+# souhait0614/renovate-config
 
-[![Test](https://github.com/taiyme/renovate-config/actions/workflows/test.yaml/badge.svg)](https://github.com/taiyme/renovate-config/actions/workflows/test.yaml)
-[![License](https://img.shields.io/github/license/taiyme/renovate-config?style=flat)](./LICENSE)
+[![Test](https://github.com/souhait0614/renovate-config/actions/workflows/test.yaml/badge.svg)](https://github.com/souhait0614/renovate-config/actions/workflows/test.yaml)
+[![License](https://img.shields.io/github/license/souhait0614/renovate-config?style=flat)](./LICENSE)
 [![Donate](https://img.shields.io/badge/donate-%3C3-f96854?style=flat)](https://taiy.me/to/donate)
 
 taiyのためのRenovate共有プリセットです。
@@ -18,7 +18,7 @@ taiyのためのRenovate共有プリセットです。
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "github>taiyme/renovate-config",
+    "github>souhait0614/renovate-config",
     ":assignAndReview(<your_name_here>)"
   ]
 }
