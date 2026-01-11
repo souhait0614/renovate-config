@@ -1,13 +1,13 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "local>taiyme/renovate-config//presets/baseRecommended",
-    "local>taiyme/renovate-config//presets/baseSchedule",
-    "local>taiyme/renovate-config//presets/baseAutomerge",
-    "local>taiyme/renovate-config//presets/baseSecurity",
-    "local>taiyme/renovate-config//presets/groupCI",
-    "local>taiyme/renovate-config//presets/groupNpmBun",
-    "local>taiyme/renovate-config//presets/groupRuntime",
-    "local>taiyme/renovate-config//presets/groupUnstable"
+    "local>souhait0614/renovate-config//presets/baseRecommended",
+    "local>souhait0614/renovate-config//presets/baseSchedule",
+    "local>souhait0614/renovate-config//presets/baseAutomerge",
+    "local>souhait0614/renovate-config//presets/baseSecurity",
+    "local>souhait0614/renovate-config//presets/groupCI",
+    "local>souhait0614/renovate-config//presets/groupNpmBun",
+    "local>souhait0614/renovate-config//presets/groupRuntime",
+    "local>souhait0614/renovate-config//presets/groupUnstable"
   ]
 }

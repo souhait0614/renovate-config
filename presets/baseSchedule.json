@@ -8,7 +8,7 @@
   "packageRules": [
     {
       "matchDepNames": [
-        "{npm:,}@taiyme/**"
+        "{npm:,}@souhait0614/**"
       ],
       "schedule": "* * * * *",
       "minimumReleaseAge": null

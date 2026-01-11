@@ -2,13 +2,13 @@
   "name": "renovate-config",
   "version": "0.0.0",
   "private": true,
-  "description": "taiyのためのRenovate共有プリセット",
+  "description": "すえのためのRenovate共有プリセット",
   "repository": {
     "type": "git",
-    "url": "https://github.com/taiyme/renovate-config.git"
+    "url": "https://github.com/souhait0614/renovate-config.git"
   },
   "license": "MIT",
-  "author": "taiy <me@taiy.me> (https://taiy.me/)",
+  "author": "taiy <me@taiy.me> (https://taiy.me/), すえ <me@souhait.me> (https://souhait.me/)",
   "type": "module",
   "scripts": {
     "clean": "tsx ./scripts/clean.js && pnpm store prune",
