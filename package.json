@@ -27,7 +27,7 @@
     "jiti": "2.7.0",
     "renovate": "43.231.2",
     "tsx": "4.22.4",
-    "typescript": "5.9.3"
+    "typescript": "6.0.3"
   },
   "packageManager": "pnpm@10.34.3",
   "engines": {
