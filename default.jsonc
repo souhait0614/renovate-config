@@ -1,0 +1,13 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "local>souhait0614/renovate-config:presets/base",
+    "local>souhait0614/renovate-config:presets/schedule",
+    "local>souhait0614/renovate-config:presets/security",
+    "local>souhait0614/renovate-config:presets/automerge",
+    "local>souhait0614/renovate-config:presets/group/ci",
+    "local>souhait0614/renovate-config:presets/group/npm-bun",
+    "local>souhait0614/renovate-config:presets/group/runtime",
+    "local>souhait0614/renovate-config:presets/group/zero-major"
+  ]
+}

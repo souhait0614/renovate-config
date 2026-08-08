@@ -1,0 +1,30 @@
+{
+  "name": "renovate-config",
+  "version": "0.0.0",
+  "private": true,
+  "description": "すえ用Renovate共有プリセット",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/souhait0614/renovate-config.git"
+  },
+  "license": "MIT",
+  "author": "すえ <me@souhait.me> (https://souhait.me/)",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "test": "tsx ./scripts/test.js"
+  },
+  "devDependencies": {
+    "@eslint/json": "2.0.1",
+    "@taiyme/eslint-config": "1.0.1",
+    "@types/node": "24.13.3",
+    "@typescript-eslint/parser": "8.66.0",
+    "eslint": "9.39.5",
+    "eslint-config-flat-gitignore": "2.3.0",
+    "globals": "17.9.0",
+    "jiti": "2.7.0",
+    "tsx": "4.23.11",
+    "typescript": "6.0.3"
+  }
+}
