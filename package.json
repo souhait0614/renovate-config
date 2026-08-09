@@ -18,7 +18,7 @@
   "devDependencies": {
     "@eslint/json": "2.0.1",
     "@taiyme/eslint-config": "1.0.1",
-    "@types/node": "24.13.3",
+    "@types/node": "26.2.0",
     "@typescript-eslint/parser": "8.66.0",
     "eslint": "9.39.5",
     "eslint-config-flat-gitignore": "2.3.0",
