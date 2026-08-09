@@ -3,6 +3,7 @@
   "minimumReleaseAge": "1 day",
   "osvVulnerabilityAlerts": true,
   "vulnerabilityAlerts": {
-    "schedule": ["at any time"]
+    "schedule": ["at any time"],
+    "groupName": "{{datasource}}-{{packageName}} vulnerability updates"
   }
 }
