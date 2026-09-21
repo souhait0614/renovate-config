@@ -20,7 +20,7 @@
     "@taiyme/eslint-config": "1.0.1",
     "@types/node": "24.13.3",
     "@typescript-eslint/parser": "8.70.0",
-    "eslint": "9.39.5",
+    "eslint": "10.10.0",
     "eslint-config-flat-gitignore": "2.4.0",
     "globals": "17.12.0",
     "jiti": "2.7.0",
