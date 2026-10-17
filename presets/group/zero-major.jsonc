@@ -4,7 +4,8 @@
     {
       "matchCurrentVersion": "/^0\\./",
       "matchUpdateTypes": ["minor"],
-      "automerge": false
+      "automerge": false,
+      "semanticCommitType": "fix"
     }
   ]
 }

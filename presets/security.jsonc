@@ -4,6 +4,7 @@
   "osvVulnerabilityAlerts": true,
   "vulnerabilityAlerts": {
     "schedule": ["at any time"],
-    "groupName": "{{datasource}}-{{packageName}} vulnerability updates"
+    "groupName": "{{datasource}}-{{packageName}} vulnerability updates",
+    "semanticCommitType": "fix"
   }
 }
