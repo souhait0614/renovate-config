@@ -6,5 +6,18 @@
     "schedule": ["at any time"],
     "groupName": "{{datasource}}-{{packageName}} vulnerability updates",
     "semanticCommitType": "fix"
-  }
+  },
+  "packageRules": [
+    {
+      "description": "release timestamp が無い更新タイプで automerge が止まるのを防ぐ。",
+      "matchUpdateTypes": [
+        "lockFileMaintenance",
+        "pin",
+        "replacement",
+        "bump",
+        "rollback"
+      ],
+      "minimumReleaseAgeBehaviour": "timestamp-optional"
+    }
+  ]
 }
